@@ -39,6 +39,8 @@ Dynamic Solutions Architect and Software Engineer with over 25 years of experien
   <img src="https://img.shields.io/badge/N8N-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/CrewAI-FF6F61?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoGen-5C2D91?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agno%20ADK-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-%236f42c1.svg?style=for-the-badge&logo=ai&logoColor=white"/>
 </p>
 
 ### 🗄️ Vector Databases  
