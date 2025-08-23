@@ -14,3 +14,4 @@ Dynamic Solutions Architect and Software Engineer with over 25 years of experien
 
 #  GitHub Stats:
 [![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishpolasi)](https://github.com/satishpolasi/github-readme-stats)
+![Satish's GitHub stats](https://github-readme-stats.vercel.app/api?username=satishpolasi&show_icons=true&theme=dark)
