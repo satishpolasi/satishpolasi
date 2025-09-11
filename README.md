@@ -4,8 +4,6 @@ Technical Lead and Principal level Software Engineer with 25+ years building ent
 ## CORE COMPETENCIES:
  
 Solution Architecture • GenAI/RAG • LLMOps • System Modernization • Java & Python Services • Rules Engines (Drools) • BPM (jBPM) • Cloud & Containers (AWS, Docker, Kubernetes) • CI/CD (GitHub Actions, Jenkins, AgnoCD, GITOps) • Data/Vector Stores • Performance & Reliability • Cross functional Delivery • On/Offshore Team Leadership • Stakeholder Management
-<img width="468" height="194" alt="image" src="https://github.com/user-attachments/assets/f04d2b98-7c21-47b4-9316-688db50bed90" />
- to bridging traditional software practices with innovative AI technologies, fostering collaboration, and delivering exceptional results across diverse projects
 
 
 ## 🌐 Socials:
