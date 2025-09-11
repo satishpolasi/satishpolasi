@@ -1,5 +1,11 @@
 ## 🚀 About Me:
-Dynamic Solutions Architect and Software Engineer with over 25 years of experience in full-stack development, specializing in Generative AI, Agentic AI, RAG and LLMOps. Proven expertise in fine-tuning large language models and optimizing AI workflows to enhance operational efficiency. Adept at leveraging robust software engineering skills to design and implement scalable, high-impact solutions that drive organizational success. Committed to bridging traditional software practices with innovative AI technologies, fostering collaboration, and delivering exceptional results across diverse projects
+Technical Lead and Principal level Software Engineer with 25+ years building enterprise platforms and AI enabled applications. Delivers production grade GenAI/RAG features, modernizes legacy estates (Java 11→17→21), and ships reliably via AWS backed CI/CD. Recognized for measurable outcomes (50% cycle time reduction; ~$450K/month revenue protection), pragmatic leadership, and hands on architecture across data, services, and UX.
+ 
+## CORE COMPETENCIES:
+ 
+Solution Architecture • GenAI/RAG • LLMOps • System Modernization • Java & Python Services • Rules Engines (Drools) • BPM (jBPM) • Cloud & Containers (AWS, Docker, Kubernetes) • CI/CD (GitHub Actions, Jenkins, AgnoCD, GITOps) • Data/Vector Stores • Performance & Reliability • Cross functional Delivery • On/Offshore Team Leadership • Stakeholder Management
+<img width="468" height="194" alt="image" src="https://github.com/user-attachments/assets/f04d2b98-7c21-47b4-9316-688db50bed90" />
+ to bridging traditional software practices with innovative AI technologies, fostering collaboration, and delivering exceptional results across diverse projects
 
 
 ## 🌐 Socials:
