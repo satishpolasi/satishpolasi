@@ -1,9 +1,10 @@
 ## 🚀 About Me:
 Technical Lead and Principal level Software Engineer with 25+ years building enterprise platforms and AI enabled applications. Delivers production grade GenAI/RAG features, modernizes legacy estates (Java 11→17→21), and ships reliably via AWS backed CI/CD. Recognized for measurable outcomes (50% cycle time reduction; ~$450K/month revenue protection), pragmatic leadership, and hands on architecture across data, services, and UX.
  
-## CORE COMPETENCIES:
+## Skills:
  
-Solution Architecture • GenAI/RAG • LLMOps • System Modernization • Java & Python Services • Rules Engines (Drools) • BPM (jBPM) • Cloud & Containers (AWS, Docker, Kubernetes) • CI/CD (GitHub Actions, Jenkins, AgnoCD, GITOps) • Data/Vector Stores • Performance & Reliability • Cross functional Delivery • On/Offshore Team Leadership • Stakeholder Management
+Software Engineering, Technical Architecture & Solution Design, Coding, Agile Project Management, Delivery Management, Security & Compliance, Scalability & Performance Optimization, Technical Documentation & Reporting, Cross-Functional Collaboration, Team Mentoring, Innovation & Continuous Improvement, Communication<img width="468" height="53" alt="image" src="https://github.com/user-attachments/assets/081f3651-d11b-4d92-a414-ce42b803f93d" />
+
 
 
 ## 🌐 Socials:
