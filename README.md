@@ -1,5 +1,6 @@
 ## 🚀 About Me:
-Technical Lead and Principal level Software Engineer with 25+ years building enterprise platforms and AI enabled applications. Delivers production grade GenAI/RAG features, modernizes legacy estates (Java 11→17→21), and ships reliably via AWS backed CI/CD. Recognized for measurable outcomes (50% cycle time reduction; ~$450K/month revenue protection), pragmatic leadership, and hands on architecture across data, services, and UX.
+Accomplished Technical Lead and Principal-level Software Engineer with 15+ years of experience developing enterprise platforms and AI-enabled applications. Proven success in delivering production-grade GenAI and RAG capabilities, modernizing legacy systems, and managing reliable deployments through AWS-backed CI/CD pipelines. Recognized for achieving measurable results, including 50% cycle time reduction and ~$350K monthly revenue protection, combining strategic leadership with hands-on expertise across data, services, and user experience.
+
  
 ## Skills:
  
