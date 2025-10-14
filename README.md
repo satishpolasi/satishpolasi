@@ -3,7 +3,7 @@ Technical Lead and Principal level Software Engineer with 25+ years building ent
  
 ## Skills:
  
-Software Engineering, Technical Architecture & Solution Design, Coding, Agile Project Management, Delivery Management, Security & Compliance, Scalability & Performance Optimization, Technical Documentation & Reporting, Cross-Functional Collaboration, Team Mentoring, Innovation & Continuous Improvement, Communication<img width="468" height="53" alt="image" src="https://github.com/user-attachments/assets/081f3651-d11b-4d92-a414-ce42b803f93d" />
+Software Engineering, Technical Architecture & Solution Design, Coding, Agile Project Management, Delivery Management, Security & Compliance, Scalability & Performance Optimization, Technical Documentation & Reporting, Cross-Functional Collaboration, Team Mentoring, Innovation & Continuous Improvement, Communication
 
 
 
